@@ -18,8 +18,8 @@ Aplikasi Github User App merupakan project akhir untuk memenuhi submission terak
 - CRUD
 
 ## Logo
-![Logo]()
+![Logo](Logo.jpg)
 
 ## Preview App
-![Home]()
-![Setting]()
+![Home](Home.jog)
+![Setting](Setting.jpg)
