@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="name_github">Name</string>
+    <string name="username_github">Username</string>
+    <string name="search_name">Search</string>
+    <string name="view_profile">View Profile</string>
+    <string name="location_github">Location</string>
+    <string name="company_github">Company</string>
+    <string name="followers_github">Followers</string>
+    <string name="following_github">Following</string>
+    <string name="repository_github">Repository</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="logogithub">Github Logo</string>
+    <string name="dicodinglogo">Dicoding Logo</string>
+    <string name="by">by</string>
+    <string name="bar_search">Github User Search</string>
+    <string name="bar_detail">%1$s</string>
+    <string name="change_language_settings">Language</string>
+    <string name="fav_user">Favorite</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="repeating_alarm">Alarm</string>
+    <string name="alarm_time">09:00 AM</string>
+    <string name="bar_setting">Setting</string>
+    <string name="change_language">Change Language</string>
+    <string name="alarm_on">Alarm ON</string>
+    <string name="alarm_off">Alarm OFF</string>
+    <string name="message_alarm">Jangan Lupa Bersyukur Setiap Saat Yaa :)</string>
+    <string name="message">Data Not Found</string>
+
+</resources>

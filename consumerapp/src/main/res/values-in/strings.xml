@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">App Konsumer</string>
+    <string name="name_github">Nama</string>
+    <string name="username_github">Nama Pengguna</string>
+    <string name="search_name">Pencarian</string>
+    <string name="view_profile">Lihat Profil</string>
+    <string name="location_github">Lokasi</string>
+    <string name="company_github">Perusahaan</string>
+    <string name="followers_github">Pengikut</string>
+    <string name="following_github">Diikuti</string>
+    <string name="repository_github">Repositori</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Diikuti</string>
+    <string name="logogithub">Logo Github</string>
+    <string name="dicodinglogo">Logo Dicoding</string>
+    <string name="by">dari</string>
+    <string name="bar_search">Pencarian Pengguna Github</string>
+    <string name="bar_detail">%1$s</string>
+    <string name="change_language_settings">Bahasa</string>
+    <string name="fav_user">Favorit</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="repeating_alarm">Alarm</string>
+    <string name="alarm_time">09:00 WIB</string>
+    <string name="bar_setting">Pengaturan</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="alarm_on">Alarm Aktif</string>
+    <string name="alarm_off">Alarm Mati</string>
+    <string name="message_alarm">Jangan Lupa Bersyukur Setiap Saat Yaa :)</string>
+</resources>
